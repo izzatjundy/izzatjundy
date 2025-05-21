@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathurwithyou&layout=compact&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzatjundy&layout=compact&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
 </p>
 
 ### Langs 
