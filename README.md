@@ -5,11 +5,11 @@
 </p>
 
 ---
-
+<!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzatjundy&layout=compact&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzatjundy&layout=compact&hide=jupyter%20notebook,css,html&langs_count=10" alt="Top Languages" />
 </p>
-
+-->
 ### Langs 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
