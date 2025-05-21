@@ -22,7 +22,10 @@
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=plastic&logo=haskell&logoColor=white" />
   <img src="https://img.shields.io/badge/Prolog-E61B23?style=plastic&logo=prolog&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
 </p>
+
 
 ---
 
