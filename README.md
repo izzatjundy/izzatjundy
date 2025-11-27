@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Izzat</h1>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm an Informatics Engineering Sophomore at <strong>Institut Teknologi Bandung</strong>.  
+  Welcome to my GitHub profile! I'm an Informatics Engineering Junior at <strong>Institut Teknologi Bandung</strong>.  
 </p>
 
 ---
